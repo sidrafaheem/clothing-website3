@@ -3,7 +3,6 @@
 @tailwind utilities;
 
 
-
  /* @layer components{
   .header-top-icon-wrapper{
     @apply bg-gray-100 rounded-md p-[6px] text-[14px] cursor-pointer hover:bg-amber-200
